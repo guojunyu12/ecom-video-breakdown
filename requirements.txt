@@ -1,0 +1,13 @@
+# 系统依赖：ffmpeg / ffprobe（必需）
+# OCR（推荐其一）
+rapidocr_onnxruntime
+# paddleocr
+# ASR（推荐其一，首次运行会下载模型）
+# funasr
+# modelscope
+# torch
+# torchaudio
+faster-whisper
+numpy
+# 可选：抖音链接下载回退
+# yt-dlp
